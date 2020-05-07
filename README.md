@@ -1,4 +1,4 @@
-# SBCARS2019
+# Initial Typology
 Supplementary material of the paper titled: 'A Typology of Architectural Strategies for Interoperability'
 
 
